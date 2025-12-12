@@ -11,4 +11,4 @@
 ## 資料夾結構
 * `3D_Crystal_Ball/`: 包含水晶球實作的主程式與測試圖片。
 * `AI_CUP_Segmentation/`: 包含競賽用的模型訓練與推論程式碼。
-* `AI_CUP 結果檔案與權重檔案`: https://drive.google.com/drive/folders/1AhXgzKy4hbfS54r6wFKWvyZCG2CLJwQq?usp=drive_link
+* `AI_CUP 結果檔案、權重檔案、資料集`: https://drive.google.com/drive/folders/1AhXgzKy4hbfS54r6wFKWvyZCG2CLJwQq?usp=drive_link

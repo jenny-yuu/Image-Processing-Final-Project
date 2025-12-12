@@ -1,0 +1,6 @@
+{
+  "image_dataset": "input_images",
+  "output_dataset": "processed_data",
+  "resize_width": 600,
+  "grabcut_iter": 5
+}

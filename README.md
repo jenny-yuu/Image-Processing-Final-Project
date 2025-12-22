@@ -12,4 +12,4 @@
 * `3D_Crystal_Ball/`: 包含水晶球實作的主程式與測試圖片。
 * `AI_CUP_Segmentation/`: 包含競賽用的模型訓練與推論程式碼。
 * `AI_CUP 結果檔案、權重檔案、資料集`: https://drive.google.com/drive/folders/1AhXgzKy4hbfS54r6wFKWvyZCG2CLJwQq?usp=drive_link
-* `3D 水晶球程式碼與資料集`: [https://drive.google.com/drive/folders/1AhXgzKy4hbfS54r6wFKWvyZCG2CLJwQq?usp=drive_link](https://drive.google.com/drive/folders/1GPUme2gOryTSgWpUuQ6LX1ZdQQP20Yfw?usp=sharing)
+* `3D 水晶球程式碼與資料集`: https://drive.google.com/drive/folders/1GPUme2gOryTSgWpUuQ6LX1ZdQQP20Yfw?usp=sharing
